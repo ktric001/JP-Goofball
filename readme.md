@@ -8,7 +8,7 @@
 
 ##### Used: Astronomer Documentation - https://www.astronomer.io/ #####
 
-##So Far: ##
+## So Far: ##
 
 1 - Pandas Validation Set up, theres an internal and paramaterized path towards validating dtypes, column ranges, that kind of thing.
 
