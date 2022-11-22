@@ -1,4 +1,4 @@
-##JP's Fun Project
+## JP's Fun Project ##
 
 ##### Used: Pandas-Schema - https://pypi.org/project/pandas-schema/ #####
 
