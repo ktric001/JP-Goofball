@@ -1,0 +1,16 @@
+Project Requires
+
+1) API Security Testing
+
+2) Pandas integration to pull information from test kaggle source
+
+3) Testing on ML model on this source
+
+4) Unit Testing?
+
+5) Load to Amazon S3
+
+6)Google Maps Research
+
+7)Markdown Tech
+1:57:02
