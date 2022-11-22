@@ -5,8 +5,10 @@ Project Requires
 2) Pandas integration to pull information from test kaggle source
 
 3) Testing on ML model on this source
+Pulled in information from https://github.com/vlazovskiy/route-optimizer-machine-learning
 
 4) Unit Testing?
+Added Pandas Schema Validation implementation with unit testing
 
 5) Load to Amazon S3
 
