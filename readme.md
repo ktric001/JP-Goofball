@@ -23,21 +23,39 @@
 ####Permissions	Description
 
 CUSTOMERS_READ	Read customer information
+
 CUSTOMERS_WRITE	Edit customer information
+
 EMPLOYEES_READ	Read employee information
+
 ITEMS_READ	Read items, categories, discounts and modifiers
+
 INVENTORY_READ	Read inventory
+
 INVENTORY_WRITE	Edit inventory
+
 ITEMS_WRITE	Edit items, discounts, categories and modifiers
+
 MERCHANT_READ	Read merchant information
+
 PAYMENT_TYPES_READ	Read payment types
+
 POS_DEVICES_READ	Read POS devices information
+
 POS_DEVICES_WRITE	Update POS devices information
+
 RECEIPTS_READ	Read receipts
+
 RECEIPTS_WRITE	Create receipts
+
 SHIFTS_READ	Read shifts
+
 STORES_READ	Read store information
+
 SUPPLIERS_READ	Read supplier information
+
 SUPPLIERS_WRITE	Edit supplier information
+
 TAXES_READ	Read taxes
+
 TAXES_WRITE	Edit taxes
