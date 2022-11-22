@@ -1,14 +1,14 @@
 ##JP's Fun Project
 
-#####Used: Pandas-Schema - https://pypi.org/project/pandas-schema/
+##### Used: Pandas-Schema - https://pypi.org/project/pandas-schema/ #####
 
-#####Used: Route Optimizer - https://github.com/vlazovskiy/route-optimizer-machine-learning
+##### Used: Route Optimizer - https://github.com/vlazovskiy/route-optimizer-machine-learning #####
 
-#####Used: LoydVerse Documentation - https://developer.loyverse.com/docs/
+##### Used: LoydVerse Documentation - https://developer.loyverse.com/docs/ #####
 
-#####Used: Astronomer Documentation - https://www.astronomer.io/
+##### Used: Astronomer Documentation - https://www.astronomer.io/ #####
 
-##So Far:
+##So Far: ##
 
 1 - Pandas Validation Set up, theres an internal and paramaterized path towards validating dtypes, column ranges, that kind of thing.
 
@@ -20,7 +20,7 @@
 
 5 - Airflow Testing/Prod Environments - Industry Standard is Astronomer, this is what you'd want.
 
-####Permissions	Description
+#### Permissions	Description ####
 
 CUSTOMERS_READ	Read customer information
 
